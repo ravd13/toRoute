@@ -1,0 +1,37 @@
+nav {
+  background-color: #673ab7; }
+
+div.promo {
+  height: 256px;
+  background: url("../img/background.jpg"); }
+
+div.img-container {
+  height: 256px;
+  background-color: black;
+  opacity: 0.4; }
+
+div.search {
+  height: 68px; }
+
+i.search {
+  color: #7e57c2; }
+
+i.places_to {
+  color: grey; }
+
+a.search_drop {
+  background-color: #ffffff;
+  width: 162px;
+  height: 22px; }
+  a.search_drop font {
+    color: #9d9d9d; }
+
+td {
+  padding: 15px; }
+
+input.search_text {
+  border-left: none;
+  border-right: none;
+  border-top: none; }
+
+/*# sourceMappingURL=main.css.map */
